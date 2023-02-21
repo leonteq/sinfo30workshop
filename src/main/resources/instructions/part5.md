@@ -2,6 +2,4 @@
 
 # Conclusion
 
-[back](part4.md)
-
-
+[back](part4.md) / [thanks](thanks.md)
