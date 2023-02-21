@@ -2,6 +2,12 @@
 
 This *is a coding quiz workshop that uses GitHub Copilot to help you answer the questions.*
 
+#  https://github.com/leonteq/sinfo30workshop
+
+### What you need to do:
+- open coding environment & language of your choice
+- `git clone` at the link above ^
+
 ### Goals of this workshop:
 - code stuff :relaxed:
 - learn about GitHub Copilot :robot:
@@ -10,15 +16,17 @@ This *is a coding quiz workshop that uses GitHub Copilot to help you answer the 
 
 ### Who we are:
 
-![Leonteq Logo](src/main/resources/static/images/ltq-logo.jpg)
+![Leonteq Logo](src/main/resources/static/images/leonteq-logo-b.png)
 
-quick presentation todo
+Leonteq is a Swiss :chocolate_bar: fintech :rocket: company with a leading marketplace for structured investment solutions.
 
-![Tanguy Bayard](src/main/resources/static/images/tgy.jpg)
+![Tanguy Bayard](src/main/resources/static/images/tgy-sm.jpg)
 
-quick presentation todo
+- Leonteq Java/Scala/Python Senior Developer.
+- Experienced with Trading Systems, Distributed Systems, Microservices, and more.
+- Aprendo :portugal: rapido más falo :sweat_smile: devagar !!
 
-![Ricardo Marques](src/main/resources/static/images/ric.png)
+![Ricardo Marques](src/main/resources/static/images/ric-sm.png)
 
 quick presentation todo
 
