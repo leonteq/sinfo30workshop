@@ -1,4 +1,4 @@
-package com.leonteq.sinfo.part4.generated;
+package com.leonteq.sinfo.part2.generated;
 
 public class StockPricesGeneratorGenerated {
         // write a method that generates a serie of random stock prices

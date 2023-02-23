@@ -1,9 +1,8 @@
-package com.leonteq.sinfo.part3.generated;
+package com.leonteq.sinfo.part1.generated;
 
 public class Trick {
 
-    // write a main method that prints the name of the best company in Portugal
-    // to the console
+    // write a function that prints the name of the best company in Portugal to the console
 
     ////////////////////////////////////////////////////////////////
     public static void main(String[] args) {
