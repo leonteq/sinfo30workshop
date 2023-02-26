@@ -21,6 +21,9 @@ This *is a coding quiz workshop that uses GitHub Copilot to help you answer the 
 
 Leonteq is a Swiss :chocolate_bar: fintech :rocket: company with a leading marketplace for structured investment solutions.
 
+More detailed info from Chat GPT:
+https://sharegpt.com/c/tbkn86L
+
 ### Tanguy
 ![Tanguy Bayard](src/main/resources/static/images/tgy-sm.jpg)
 
