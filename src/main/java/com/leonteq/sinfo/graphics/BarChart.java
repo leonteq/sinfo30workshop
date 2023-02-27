@@ -25,7 +25,7 @@ public class BarChart extends JPanel {
             .mapToObj(x -> new BigDecimal(x))
             .collect(Collectors.toList())
             .toArray(new BigDecimal[points.length]);
-    chartBuckets(pointsToBuckets(bdPoints));
+    plotPoints(bdPoints);
   }
 
   public static void plotPoints(BigDecimal[] points) {
