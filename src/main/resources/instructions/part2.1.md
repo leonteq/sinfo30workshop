@@ -42,10 +42,23 @@ For the purpose of this time-boxed exercise, the Call Option will be very simple
 - we will then take the average of all the payoffs to estimate what should be the minimum price of our Call Option.
 
 The tricky parts here are:
-- how to do 1 Monte Carlo simulation: see MonteCarloPriceSimulator.getPrice() method in the project as one possible way to achieve it.
+- how to do 1 Monte Carlo simulation: 
+  - see MonteCarloPriceSimulator.getPrice() method in the project as one possible way to achieve it.
+  - see also more details at the end of this page.
 - how to code the payoff calculations: the 3 examples above should help you.
 
 You also have a helper method BarChart.plotPoints() which produces a bar chart from an array of points.
 It can be useful if you want to validate that your Monte Carlo simulations follows normal distribution.
+
+**Note on Monte Carlo simulations:**
+
+the Monte Carlo simulations are meant to follow a normal distribution. 
+
+Just in case, here is what a normal distribution looks like:
+![Normal distribution](../static/images/standard-deviation.png)
+
+A good way to assess the quality of your Monte Carlo simulations is to plot the results in a bar chart.
+
+For this, you can use the BarChart.plotPoints() method.
 
 [back](part1.3.md) / [conclusion](conclusion.md)
