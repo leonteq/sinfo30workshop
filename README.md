@@ -34,7 +34,8 @@ https://sharegpt.com/c/tbkn86L
 ### Ricardo
 ![Ricardo Marques](src/main/resources/static/images/ric-sm.png)
 
-quick presentation todo
+- Leonteq Scala Developer.
+- Music League guru.
 
 ## Today's Agenda
 - Introduction, environment setup (10min)
