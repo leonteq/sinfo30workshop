@@ -1,4 +1,4 @@
-package com.leonteq.sinfo.part1.generated;
+package com.leonteq.sinfo.part1;
 
 public class FizzBuzz {
 
@@ -27,26 +27,5 @@ public class FizzBuzz {
 // 14
 // FizzBuzz
 
-    ////////////////////////////////////////////////////////////////
-    public static void main(String[] args) {
-        int x = Integer.parseInt(args[0]);
-        for (int i = 1; i <= x; i++) {
-            System.out.println(fizzBuzz(i));
-        }
-
-
-    }
-
-    public static String fizzBuzz(int x) {
-        if (x % 3 == 0 && x % 5 == 0) {
-            return "FizzBuzz";
-        } else if (x % 3 == 0) {
-            return "Fizz";
-        } else if (x % 5 == 0) {
-            return "Buzz";
-        } else {
-            return String.valueOf(x);
-        }
-    }
 
 }
