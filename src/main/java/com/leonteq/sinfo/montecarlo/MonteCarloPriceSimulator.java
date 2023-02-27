@@ -10,7 +10,7 @@ public class MonteCarloPriceSimulator {
   static final long seed = 123;
   static final Random random = new Random(seed);
 
-  public static double getPrice(double initialPrice, double volatility) {
+  public static double getPrice(final double initialPrice, final double volatility) {
     return random.nextGaussian(initialPrice, volatility);
   }
 
@@ -40,7 +40,7 @@ public class MonteCarloPriceSimulator {
   /**
    * helper method to compute standard deviation of an array of points
    */
-  private static double stdv(double[] points) {
+  private static double stdv(final double[] points) {
     double sum = 0.0;
     for (double i : points) {
       sum += i;
