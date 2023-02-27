@@ -1,8 +1,5 @@
 package com.leonteq.sinfo.part2;
 
-import com.leonteq.sinfo.graphics.BarChart;
-import com.leonteq.sinfo.montecarlo.MonteCarloPriceSimulator;
-
 public class OptionPriceCalculator {
     // Write a program that calculates the cost (price) of a Call Option.
     //For the purpose of this time-boxed exercise, the Call Option will be very simple:

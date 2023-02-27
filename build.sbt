@@ -1,1 +1,1 @@
-organization := "tangeek"name := "Copilot Workshop"version := "1.0-SNAPSHOT"libraryDependencies += "org.slf4j" % "slf4j-api" % "1.7.35"crossPaths := falseautoScalaLibrary := false
+organization := "tangeek"name := "Copilot Workshop"version := "1.0-SNAPSHOT"Compile / javacOptions ++= Seq("--release", "11")libraryDependencies += "org.slf4j" % "slf4j-api" % "1.7.35"crossPaths := falseautoScalaLibrary := false

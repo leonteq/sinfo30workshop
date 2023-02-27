@@ -111,7 +111,7 @@ public class BarChart extends JPanel {
   public void display() {
     JFrame frame = new JFrame("Bar Chart");
     frame.getContentPane().add(this);
-    frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+    frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
     frame.pack();
     frame.setVisible(true);
   }

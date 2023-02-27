@@ -13,8 +13,8 @@ _Note: this is a classic entry level coding exercise during technical interviews
     // - for any x multiple of 3 and 5 print FizzBuzz to console.
     // - else print value of x.
     // The main method takes an integer as argument that the number of integer we iterate over, starting from 1.
-    // (note: the below example got actually suggested by copilot ...)
     // Use a helper function that returns a string for a given integer.
+    // (note: the below example got actually suggested by copilot ...)
     // For example, if the argument is 15, the output should be:
     // 1
     // 2
